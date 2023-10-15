@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/sanlo62" target="blank"><img src="https://img.shields.io/twitter/follow/sanlo62?logo=twitter&style=for-the-badge" alt="sanlo62" /></a> </p>
 
-- 🔭 I’m currently working on my [Personal Website]([https://carterohl.com](https://carterohl.com/))
+- 🔭 I’m currently working on my [Personal Website](https://carterohl.com/)
 
 - 🌱 I’m currently learning **C**
 
 - 👯 I’m looking to collaborate on [any AI/ML project](https://www.youtube.com/watch?v=SX08NT55YhA&t=75s)
 
-- 👨‍💻 All of my projects are available at [carterohl.com]([https://carterohl.com](https://carterohl.com/))
+- 👨‍💻 All of my projects are available at [carterohl.com](https://carterohl.com/)
 
-- 📝 I regularly write articles on [carterohl.com]([https://carterohl.com](https://carterohl.com/))
+- 📝 I regularly write articles on [carterohl.com](https://carterohl.com/)
 
 - 💬 Ask me about **competitive programing!**
 
