@@ -14,7 +14,7 @@ Java · Spring Boot · Kafka · MongoDB · REST · microservices · Python · Gi
 Machine learning / AI engineering — bringing production systems experience to the AI stack.
 
 **Reach me**
-[your email] · [your LinkedIn URL]
+carterohl15@gmail.com
 
 <!--
 HOW TO USE THIS FILE:
